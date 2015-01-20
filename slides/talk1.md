@@ -111,7 +111,7 @@
 
 - Parametric equations are:
 
-- x = r cos(t) y = r sin(t) z = t
+- x = r cos(t) y = r sin(t) z = t[@item1; @item2].
 
 # Stack overflow user statistics
 
@@ -142,4 +142,3 @@ Likelihood meaning:
 - P = Productivity Parameter
 
 # References
-
